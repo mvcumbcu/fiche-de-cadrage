@@ -3,12 +3,13 @@
 Plateforme d'entraide et de tutorat scolaire[cite: 4].
 
 ## 👥 Équipe du projet
+* Sylvaince Soly[cite: 4]
 * Augustin Arlly[cite: 4]
 * Bernard Zacharie[cite: 4]
 * Michel Lorika[cite: 4]
 * Placide Gémima[cite: 4]
-* Sylvaince Soly[cite: 4]
-* Valcin Lyse[cite: 4]
+*  Valcin Lyse[cite: 4]
+
 
 ---
 
